@@ -1,17 +1,17 @@
 # R_language_Basics_Programming
 
-This repository contains the very basics of R that can be understood by any beginner of programming. 
+This repository contains the very basics of R that can be understood by any beginner. 
 
 
-About R :
+## About R :
 
 R is a programming language developed by Ross Ihaka and Robert Gentleman in 1993. R possesses an extensive catalog of statistical and graphical methods. It includes machine learning algorithm, linear regression, time series, statistical inference to name a few.
 
 R is not only entrusted by academic, but many large companies also use R programming language, including Uber, Google, Airbnb, Facebook and so on.
 
-Data analysis with R is done in a series of steps; programming, transforming, discovering, modeling and communicate the results
+### Data analysis with R is done in a series of steps; programming, transforming, discovering, modeling and communicate the       results
 
-Program: R is a clear and accessible programming tool
+## Program: #### R is a clear and accessible programming tool
 
 Transform: R is made up of a collection of libraries designed specifically for data science
 
